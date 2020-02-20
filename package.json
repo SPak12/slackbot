@@ -1,0 +1,13 @@
+{
+  "name": "slackbot",
+  "description": "im back!  ecks dee",
+  "version": "0.0.0",
+  "main": "slackbot.js",
+  "scripts": {
+    "start": "node slackbot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
